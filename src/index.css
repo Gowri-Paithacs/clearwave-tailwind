@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap");
+@import "tailwindcss";
+:root {
+  --page-bg: #cff7ed;
+
+  --accent: #1A7A6E;
+  --accent-mid: #2A9D8F;
+  --accent-light: #b6e0dc;
+
+  --text-1: #0D1E1C;
+  --text-2: #3A5C58;
+  --text-3: #6B8C88;
+
+  --border: rgba(13,30,28,0.08);
+}
+body {
+  font-family: "DM Sans", sans-serif;
+
+}
+.action-btn {
+  background-color: var(--page-bg);
+}
