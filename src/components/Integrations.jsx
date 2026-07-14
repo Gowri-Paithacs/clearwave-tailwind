@@ -44,8 +44,6 @@ function Integrations() {
           Connect your existing tools in minutes. Clearwave works with the
           platforms your team already relies on.
         </p>
-
-        {/* Integration Pills */}
         <div className="space-y-5">
           {rows.map((row, index) => (
             <div key={index} className="flex flex-wrap justify-center gap-4">
