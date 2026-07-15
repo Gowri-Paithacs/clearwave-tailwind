@@ -57,7 +57,7 @@ function Faq() {
                   {faq}
                 </span>
 
-                <div className="w-10 h-10 rounded-full border border-[#DCE9E6] flex items-center justify-center text-[#1A7A6E]">
+                <div className="w-10 h-10 rounded-full border border-[#BFE2D9] flex items-center justify-center text-[#1A7A6E]">
                   <i className="fa-solid fa-plus text-sm"></i>
                 </div>
               </div>

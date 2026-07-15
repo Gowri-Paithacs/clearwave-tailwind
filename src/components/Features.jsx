@@ -267,8 +267,9 @@ function Features() {
                 </div>
               </div>
             </section>
-            {/* Stats Footer */}
-            <section className="w-full bg-[#EDF5F2] border-t border-gray-200 py-20">
+          </div>
+          {/* Stats Footer */}
+            <section className="w-full bg-[#EDF5F2] border-t border-gray-200 pt-20 pb-10">
               <div className="max-w-7xl mx-auto grid grid-cols-4">
                 {[
                   ["17", "K+", "Teams Worldwide", "Across 80+ countries"],
@@ -303,7 +304,6 @@ function Features() {
                 ))}
               </div>
             </section>
-          </div>
         </section>
       </section>
     </>
